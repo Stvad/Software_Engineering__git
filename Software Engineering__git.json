@@ -6,13 +6,13 @@
             "children": [], 
             "crowdanki_uuid": "a69e2b7a-6d5b-11e6-adf3-8c705a50cbf0", 
             "deck_config_uuid": "a69e3016-6d5b-11e6-adf3-8c705a50cbf0", 
-            "desc": "Please see the <a href='https://github.com/Stvad/anki_json_decks'>shared deck page</a> for more information.", 
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/2107904924'>shared deck page</a> for more info.", 
             "dyn": 0, 
             "extendNew": 10, 
             "extendRev": 50, 
             "media_files": [], 
             "mid": 1408638528289, 
-            "name": "Software Engineering::git::General Information", 
+            "name": "General Information", 
             "notes": [
                 {
                     "__type__": "Note", 
@@ -1029,13 +1029,13 @@
             "children": [], 
             "crowdanki_uuid": "a6a24430-6d5b-11e6-adf3-8c705a50cbf0", 
             "deck_config_uuid": "a69dd698-6d5b-11e6-adf3-8c705a50cbf0", 
-            "desc": "Please see the <a href='https://github.com/Stvad/anki_json_decks'>shared deck page</a> for more information.", 
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/'>shared deck page</a> for more info.", 
             "dyn": 0, 
             "extendNew": 1, 
             "extendRev": 50, 
             "media_files": [], 
             "mid": "1467568254113", 
-            "name": "Software Engineering::git::Commands", 
+            "name": "Commands", 
             "notes": [
                 {
                     "__type__": "Note", 
@@ -3096,7 +3096,7 @@
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Add \"unstage\" alias to git", 
+                        "Add \"unstage\" alias to git (for current user)", 
                         "git config --global alias.unstage 'reset HEAD --'", 
                         "", 
                         ""
