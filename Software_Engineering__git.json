@@ -2393,7 +2393,7 @@
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Which parameter will&nbsp;<b>show the entire history (</b>including renames<b>)&nbsp;</b>for the file (\"filename\")?", 
+                        "Which command will&nbsp;<b>show the entire history (</b>including renames<b>)&nbsp;</b>for the file (\"filename\")?", 
                         "<pre>git log --follow -p filename</pre>", 
                         "", 
                         ""
